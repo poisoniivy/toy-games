@@ -1,4 +1,4 @@
-def anagram_of_palindome(word):
+def is_anagram_of_palindrome(word):
     """Returns boolean if anagram of argument is also a palindrome.
     >>> is_anagram_of_palindrome("a")
     True
