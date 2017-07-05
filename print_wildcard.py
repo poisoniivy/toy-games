@@ -6,7 +6,7 @@ def print_wildcard(str):
 #contract for each recursive call
 def possible_list(str, result, index):
     """return a sublist of all possible combos."""
-    print str, result, index
+    # print str, result, index
     #stopping condition
     if len(result) == len(str):
         print result,

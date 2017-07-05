@@ -1,5 +1,3 @@
-add_to_zero.pyc
-anagram_of_palindrome.pyc
-binary_search.pyc
-is_pangram.pyc
-missing_number.pyc
+*.pyc
+coding_interview/*.pyc
+*/*.pyc
